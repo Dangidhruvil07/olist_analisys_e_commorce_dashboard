@@ -143,6 +143,10 @@ improve and validate it further.
 -   The dashboard depends on the source data being present and correctly
     named.
 -   This is a portfolio project, not a production reporting system.
+## Live Demo
+
+https://olist-analytics-e-commerce.streamlit.app
+
 
 ------------------------------------------------------------------------
 
